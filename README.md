@@ -17,3 +17,4 @@ the performance of a classification model (or “classifier”) on a set of test
 
 # Conclusion
 The given dataset is a supervised classification dataset. It holds booking information for Villa and Motel with information such as How and when the booking was made, the number of adults, children, and babies. The Logistic regression, Decision Tree, Random Forest algorithms, K Nearest Neighbor Classification Algorithm are used to handle this supervised classification model. Among these four machine learning algorithms, Random forest and Decision trees perform well with respect to accuracy.
+
